@@ -1,2 +1,0 @@
-# RRO-DOCS
-RRO documentation

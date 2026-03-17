@@ -15,5 +15,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  base: '/rro-docs/', // repo name
+  base: '/RRO-DOCS/', // repo name
 })
